@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">API List Demo</string>
+    <string name="_5">5</string>
+    <string name="dash_char_count">Dash Char Count:</string>
+    <string name="_2018">2018</string>
+    <string name="year">Year:</string>
+    <string name="russian_team_league">russian-team-league</string>
+    <string name="slug">Slug:</string>
+    <string name="russian_team_leagues">Russian Team Leagues</string>
+    <string name="name">Name:</string>
+</resources>
